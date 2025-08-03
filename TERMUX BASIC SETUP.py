@@ -39,6 +39,8 @@ else:
         sys.stdout.write(m)
         sys.stdout.flush()
         time.sleep(0.1)
+    time.sleep(1.5)
+    sys.exit()
 
 time.sleep(2)
 os.system("clear")
