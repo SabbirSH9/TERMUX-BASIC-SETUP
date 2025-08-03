@@ -56,8 +56,8 @@ print("""\033[1;33m
                                  
 \033[1;32m==========================================
 \033[1;36mOWNER :   SABBIR 
-Github:   Empty 
-Facebook :sabbir Hossein 
+Github:   https://github.com/SabbirSH9 
+Facebook :https://www.facebook.com/sabbir.hossein.66278 
 use only legal purposes 
 \033[1;32m==========================================
 """)
