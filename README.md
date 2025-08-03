@@ -1,6 +1,6 @@
 # TERMUX-SETUP-BASIC-TOOL-S
-#It's just a simple tools to termux basic package install.
-#install command 
+It's just a simple tools to termux basic package install.
+install command 
 
 pkg update
 pkg upgrade 
