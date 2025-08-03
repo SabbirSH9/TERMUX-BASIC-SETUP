@@ -34,7 +34,7 @@ if password in pas:
         sys.stdout.flush()
         time.sleep(0.1)
 else:
-    s = "\t\033[30mwrong password!! you are not allowed my tool."
+    s = "\n\033[91mwrong password!! you are not allowed my tool."
     for m in s:
         sys.stdout.write(m)
         sys.stdout.flush()
