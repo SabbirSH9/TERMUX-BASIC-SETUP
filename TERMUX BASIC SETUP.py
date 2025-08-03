@@ -25,7 +25,7 @@ time.sleep(1.6)
 os.system("clear")
 	
 print("\n\n\n\n")
-pas = ["DARK"]
+pas = ["SH9"]
 password = input("\033[1;34mEnter password: ")
 if password in pas:
     s = "\n\t\t\033[1;32mwelcome to my tool"
