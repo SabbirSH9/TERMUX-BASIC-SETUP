@@ -71,9 +71,9 @@ choice = input("Select option 1/2: ")
 
 if choice == "1":
     os.system("termux-setup-storage")
-    os.system("pkg updaty -y")
-    os.system("pkg upgrady -y")
-    os.system("pkg install giy -y")
+    os.system("pkg update -y")
+    os.system("pkg upgrade -y")
+    os.system("pkg install git -y")
     os.system("pkg install python -y")
     os.system("pkg install python2 -y")
     os.system("pkg install nodejy -y")
