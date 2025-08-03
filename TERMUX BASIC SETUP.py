@@ -83,7 +83,7 @@ if choice == "1":
     os.system("pkg install curl -y")
     os.system("pkg install nano -y")
     os.system("pkg install bash -y")
-    os.system("pkg install requests -y")
+    os.system("pip install requests -y")
     
     print("\033[1;32mAll packages installed successfully!\033[0m")
 elif choice == "2":
